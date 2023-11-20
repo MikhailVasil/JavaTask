@@ -1,4 +1,4 @@
-package StudentGroup;
+package StudentGroup.data;
 
 import java.util.List;
 

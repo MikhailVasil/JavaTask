@@ -1,4 +1,6 @@
-package StudentGroup;
+package StudentGroup.view;
+
+import StudentGroup.data.Teacher;
 
 import java.util.List;
 

@@ -1,4 +1,13 @@
-package StudentGroup;
+package StudentGroup.controller;
+
+import StudentGroup.data.Student;
+import StudentGroup.data.Teacher;
+import StudentGroup.data.Type;
+import StudentGroup.service.DataService;
+import StudentGroup.service.StudentGroupService;
+import StudentGroup.view.StudentGroupView;
+import StudentGroup.view.StudentView;
+import StudentGroup.view.TeacherView;
 
 import java.util.ArrayList;
 import java.util.List;

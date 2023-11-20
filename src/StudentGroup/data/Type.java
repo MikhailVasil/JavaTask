@@ -1,4 +1,4 @@
-package StudentGroup;
+package StudentGroup.data;
 
 public enum Type {
     STUDENT,

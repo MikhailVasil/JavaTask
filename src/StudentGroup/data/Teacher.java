@@ -1,4 +1,4 @@
-package StudentGroup;
+package StudentGroup.data;
 
 public class Teacher extends User {
     private Integer teacherId;

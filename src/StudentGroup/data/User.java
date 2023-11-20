@@ -1,4 +1,4 @@
-package StudentGroup;
+package StudentGroup.data;
 
 public abstract class User{
     private String firstName;

@@ -1,4 +1,8 @@
-package StudentGroup;
+package StudentGroup.service;
+
+import StudentGroup.data.Student;
+import StudentGroup.data.StudentGroup;
+import StudentGroup.data.Teacher;
 
 import java.util.List;
 

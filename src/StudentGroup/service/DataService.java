@@ -1,4 +1,9 @@
-package StudentGroup;
+package StudentGroup.service;
+
+import StudentGroup.data.Student;
+import StudentGroup.data.Teacher;
+import StudentGroup.data.Type;
+import StudentGroup.data.User;
 
 import java.util.ArrayList;
 import java.util.List;

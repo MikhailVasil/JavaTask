@@ -6,12 +6,12 @@ public class Teacher extends User {
         super(firstName, secondName, lastName);
     }
 
-    @Override
-    public String toString() {
-        return "Teacher{" +
-                "firstName='" + super.getFirstName() + '\'' +
-                ", secondName='" + super.getSecondName() + '\'' +
-                ", lastName='" + super.getLastName() + '\'' +
-                '}';
-    }
+//    @Override
+//    public String toString() {
+//        return "Teacher{" +
+//                "firstName='" + super.getFirstName() + '\'' +
+//                ", secondName='" + super.getSecondName() + '\'' +
+//                ", lastName='" + super.getLastName() + '\'' +
+//                '}';
+//    }
 }

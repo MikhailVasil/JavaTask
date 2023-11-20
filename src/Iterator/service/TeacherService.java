@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TeacherService {
-    private final List<Teacher> teacherList = new ArrayList<>();
+    private List<Teacher> teacherList = new ArrayList<>();
 
     public void createTeacher(String firstName, String secondName, String lastName) {
         Teacher teacher = new Teacher(firstName, secondName, lastName);
